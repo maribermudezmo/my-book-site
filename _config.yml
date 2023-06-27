@@ -28,7 +28,7 @@ baseurl: "/my-book-site" # the subpath of your site, e.g. /blog
 url: "https://maribermudezmo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @BermdezMarisol
 github_username:  maribermudezmo
-
+repository: "https://github.com/maribermudezmo/my-book-site/"
 # Build settings
 theme: minima
 plugins:
