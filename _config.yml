@@ -27,10 +27,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 # baseurl: ""
 # url: ""
-baseurl: "./my-book-site/" # the subpath of your site, e.g. /blog
-url: "https://maribermudezmo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "./my-book-site/" # the subpath of your site, e.g. /blog
+# url: "https://maribermudezmo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  maribermudezmo
-repository: "https://github.com/maribermudezmo/my-book-site/"
+# repository: "https://github.com/maribermudezmo/my-book-site/"
 # Build settings
 theme: minima
 plugins:
