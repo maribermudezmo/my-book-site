@@ -1,10 +1,10 @@
 - name: Home
   link: /
 - name: About
-  link: /my-book-site/about.html
+  link: /my-book-site/about.md
 - name: P1
   link: /counts.html
 - name: P2
   link: /counts_from_journalsC.html
 - name: Blog
-  link: /blog.html
+  link: my-book-site//blog.html
