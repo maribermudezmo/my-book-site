@@ -1,7 +1,7 @@
 - name: Home
   link: /
 - name: About
-  link: /my-book-site/about.md
+  link: /my-book-site/about.html
 - name: P1
   link: /counts.html
 - name: P2
