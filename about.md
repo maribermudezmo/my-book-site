@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /my-book-site/
+permalink: /about.md
 ---
 # a
 Soy Marisol
