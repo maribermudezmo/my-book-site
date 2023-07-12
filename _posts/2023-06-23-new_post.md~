@@ -1,6 +1,0 @@
----
-layout: post
-author: MBM
-date: "{{ site.time | date_to_xmlschema }}"
----
-csin time
